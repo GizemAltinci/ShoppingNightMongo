@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\settings\\idatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\settings\\idatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\appsettings.json",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\appsettings.json",
+              "RelativeToolTip": "ShoppingNightMongo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T14:16:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Settings\\IDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\Settings\\IDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Settings\\IDatabaseSettings.cs",
+              "RelativeToolTip": "ShoppingNightMongo\\Settings\\IDatabaseSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:59:05.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Entities\\Product.cs",
+              "RelativeToolTip": "ShoppingNightMongo\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:50:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Entities\\Category.cs",
+              "RelativeToolTip": "ShoppingNightMongo\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:45:17.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
