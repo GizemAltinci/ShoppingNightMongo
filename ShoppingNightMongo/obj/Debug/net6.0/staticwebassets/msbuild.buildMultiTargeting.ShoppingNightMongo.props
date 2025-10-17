@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShoppingNightMongo.props" />
+</Project>
