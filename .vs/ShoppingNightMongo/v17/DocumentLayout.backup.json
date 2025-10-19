@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\views\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\views\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\views\\categories\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\views\\categories\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\views\\categories\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\views\\categories\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|c:\\users\\gizem\\source\\repos\\shoppingnightmongo\\shoppingnightmongo\\views\\products\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F80E6ED-7201-4F90-A9DC-AE95EEFD738D}|ShoppingNightMongo\\ShoppingNightMongo.csproj|solutionrelative:shoppingnightmongo\\views\\products\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Services\\CategoryServices\\CategoryService.cs",
-              "RelativeDocumentMoniker": "ShoppingNightMongo\\Services\\CategoryServices\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Services\\CategoryServices\\CategoryService.cs",
-              "RelativeToolTip": "ShoppingNightMongo\\Services\\CategoryServices\\CategoryService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T20:38:03.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Categories\\UpdateCategory.cshtml",
-              "RelativeDocumentMoniker": "ShoppingNightMongo\\Views\\Categories\\UpdateCategory.cshtml",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Categories\\UpdateCategory.cshtml",
-              "RelativeToolTip": "ShoppingNightMongo\\Views\\Categories\\UpdateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T20:23:17.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryList.cshtml",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Categories\\CategoryList.cshtml",
-              "RelativeDocumentMoniker": "ShoppingNightMongo\\Views\\Categories\\CategoryList.cshtml",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Categories\\CategoryList.cshtml",
-              "RelativeToolTip": "ShoppingNightMongo\\Views\\Categories\\CategoryList.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\Views\\Products\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeToolTip": "ShoppingNightMongo\\Views\\Products\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T20:19:38.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Categories\\CreateCategory.cshtml",
-              "RelativeDocumentMoniker": "ShoppingNightMongo\\Views\\Categories\\CreateCategory.cshtml",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Categories\\CreateCategory.cshtml",
-              "RelativeToolTip": "ShoppingNightMongo\\Views\\Categories\\CreateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T20:18:08.273Z",
+              "WhenOpened": "2025-10-19T20:43:46.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "ShoppingNightMongo\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "ShoppingNightMongo\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAsAAAAAAAAAA==",
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Products\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\Views\\Products\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Products\\CreateProduct.cshtml",
+              "RelativeToolTip": "ShoppingNightMongo\\Views\\Products\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T20:18:47.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Products\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\Views\\Products\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Views\\Products\\ProductList.cshtml",
+              "RelativeToolTip": "ShoppingNightMongo\\Views\\Products\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T20:16:33.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ShoppingNightMongo\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ShoppingNightMongo\\ShoppingNightMongo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ShoppingNightMongo\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T20:09:06.493Z",
+              "WhenOpened": "2025-10-17T20:49:57.927Z",
               "EditorCaption": ""
             }
           ]
