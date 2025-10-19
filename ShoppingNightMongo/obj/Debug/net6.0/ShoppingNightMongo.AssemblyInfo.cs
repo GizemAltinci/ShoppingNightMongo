@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShoppingNightMongo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4560576f505dd8fa43cbb9fb82bc1be4d110d50d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc167cccad3d009a2c40bcf8b9fba0f5429f3f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShoppingNightMongo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShoppingNightMongo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
